@@ -48,6 +48,6 @@ The dashboard utilizes a variety of Power BI visuals, including:
 ## Technical Details
 
 *   Dashboarding Tool: Power BI
-*   Data Source: Kaggle Superstore Sales Dataset (link provided above)
-*   Data Modeling: "Standard Power BI data modeling techniques were used.
+*   Data Source: Kaggle Superstore Sales Dataset
+*   Data Modeling: Standard Power BI data modeling techniques were used.
   
