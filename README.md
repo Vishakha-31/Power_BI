@@ -42,9 +42,8 @@ The dashboard utilizes a variety of Power BI visuals, including:
 *   Filled maps
 *   Tables
 
-(Refer to the image provided for a visual representation of the dashboard layout and charts.)
 
-
+![Dashboard Screenshot](images/SuperStore_Sales_Dashboard.png)
 ## Technical Details
 
 *   Dashboarding Tool: Power BI
