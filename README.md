@@ -16,6 +16,18 @@ This Power BI dashboard provides a comprehensive overview of superstore sales pe
 *   **Profit and Sales by State:** Displays profit and sales geographically across different states, using a filled map visualization. This allows for quick identification of high-performing and underperforming states. (See the US map on the right.)
 *   **Discount Analysis:** Shows the distribution of discounts applied (0% to 80%), allowing for analysis of discount strategies and their impact on profitability. (See the "Discount" section on the right.)
 
+
+## Key Findings:
+
+ Discount Impact: Discounts above 15% significantly reduce profit margins for Technology and Office Supplies, and drive Furniture into losses.
+
+*   **Category Performance**: While Technology sells the most, its profit margin could be better. Office Supplies are a steady performer. Furniture sales and profits are both low.
+*   **Regional Performance:** The West and East coasts are where the store makes the most money.
+*   **Profit Across Customer Segments:** Consumers drive the most profit, followed by corporate clients. Home office sales lag significantly.
+*   **Overall Sales and Profit Growth:** It shows an upward trend in sales over the four-year period. This indicates positive overall growth for the Superstore. While sales are growing, profit growth appears to be less consistent and not as strong.
+
+This project highlights the importance of data-driven pricing strategies. 
+
 ## Access Instructions
 
 This dashboard is designed in Power BI.  You can access it using the provided `.pbix` file.
